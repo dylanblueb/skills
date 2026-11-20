@@ -1,5 +1,5 @@
 ---
-name: Make HTML
+name: make-html
 description: 生成可独立阅读、分享的自包含 HTML 文件（内联 CSS/JS，无 CDN 与构建依赖），适用于文章、报告、概念解释、流程图、原型、编辑器、幻灯片等；内容决定布局，场景决定主题，状态决定交互。
 ---
 
